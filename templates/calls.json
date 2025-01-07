@@ -93,17 +93,5 @@
 		"prefix": "StopCoroutine",
 		"description": "Stops the first coroutine named methodName, or the coroutine stored in routine running on this behaviour.",
 		"body": "StopCoroutine($0);"
-	},
-
-	"MonoBehaviour a": {
-		"prefix": "a",
-		"description": "a",
-		"body": "a();"
-	},
-
-	"MonoBehaviour i": {
-		"prefix": "a",
-		"description": "a",
-		"body": "a"
 	}
 }
